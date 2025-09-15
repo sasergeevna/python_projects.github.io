@@ -40,9 +40,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 
 
-### Построенный dashboard
-![Описание изображения](Telecom_dashboad.png)
-
 ### Выводы 
 Ключевые факторы оттока:
 - Контракт на один месяц (+42.7% оттока клиентов);
@@ -56,6 +53,8 @@
 Бизнес-рекомендации:
 - Удержание новых клиентов: создать welcome-программу (скидки, бонусы в первый год);
 - Изменение методов оплаты: стимулировать переход с Electronic check на автосписания;
+
+  ![Dashboard](Telecom_dashbeard.png)
 
 ## 3. Анализ факторов выживаемости на Титанике
 [Ссылка на проект](https://github.com/sasergeevna/python_projects.github.io/blob/main/Titanic_project.ipynb) 
